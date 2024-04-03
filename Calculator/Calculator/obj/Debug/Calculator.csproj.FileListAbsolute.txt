@@ -1,0 +1,15 @@
+D:\vs natel\ООП 23\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\vs natel\ООП 23\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\vs natel\ООП 23\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\App.g.cs
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\vs natel\ООП 23\Calculator\Calculator\obj\Debug\Calculator.pdb
